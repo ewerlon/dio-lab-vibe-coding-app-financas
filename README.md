@@ -1,6 +1,5 @@
-💸 FinanceAI
+#💸 FinanceAI
 Um app de organização financeira pessoal com inteligência artificial e uma pitada de criatividade.
-
 
 ✨ Sobre o Projeto
 O FinanceAI nasceu em clima de vibe coding — uma abordagem leve, criativa e colaborativa que transforma código em expressão.
