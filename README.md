@@ -32,11 +32,10 @@ Usar tom educativo e linguagem acessível, em português.
 >Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário. A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas, permitindo também fazer lançamentos por meio de imagens (como notas fiscais, recibos, etc.) e por voz.
 
 > Preciso que verifique um lançamento no valor de 1.518. No saldo atual e nas receitas está aparecendo apenas 1,51. Pode me ajudar a corrigir isso?
-Aproveito para pedir outra coisa: eu gostaria de inserir gastos por meio de cupons e notas fiscais utilizando imagens.
 
 >Vou investigar o bug do valor e adicionar upload de imagens com OCR para cupons fiscais.
 
->Identifiquei o problema! A regex não está lidando corretamente com o formato brasileiro (1.518,00). Vou corrigir o parsing e adicionar upload de imagens com OCR.
+>Identifiquei o problema! A regex não está lidando corretamente com o formato brasileiro (1.518,00). Vou corrigir o parsing.
 Prints ou pequenos vídeos das interações com a IA;
 Um resumo do que o seu App de Finanças Pessoais faz;
 Uma breve reflexão sobre o processo:
