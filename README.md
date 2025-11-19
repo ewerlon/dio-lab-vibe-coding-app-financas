@@ -44,7 +44,7 @@ Usar tom educativo e linguagem acessível, em português.
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/129747a1-9ed4-4b57-a5ef-a9cd88b78342" />
 
 **Um resumo do que App de Finanças Pessoais faz:**
-
+```txt
 ### 1. Visão Geral em Tempo Real
 - Exibe o saldo atual disponível após gastos fixos.
 - Mostra receitas e despesas de forma clara e atualizada.
@@ -79,6 +79,7 @@ Usar tom educativo e linguagem acessível, em português.
 
 ### 9. Navegação Intuitiva
 - Menu com acesso rápido a: Início, Chat, Transações, Metas e Configurações.
+```
 
 Uma breve reflexão sobre o processo:
 O que funcionou bem?
