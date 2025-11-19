@@ -1,4 +1,4 @@
-#💸 FinanceAI
+💸 FinanceAI
 Um app de organização financeira pessoal com inteligência artificial e uma pitada de criatividade.
 
 ✨ Sobre o Projeto
@@ -65,6 +65,6 @@ Tudo com linguagem acessível e tom educativo.
 - Ela se adapta com base no que você compartilha
 
 🔗 Resultado Final
-Acesse o app: project-financeai.lovable.app
+Acesse o app: [project-financeai.lovable.app](https://project-financeai.lovable.app/)
 
 Se quiser, posso te ajudar a criar um CONTRIBUTING.md, LICENSE, ou até um roadmap.md para o repositório. É só dizer!
