@@ -9,11 +9,14 @@ Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvim
 O resultado? Um app que une eficiência técnica com sensibilidade criativa — o melhor da nova geração de desenvolvimento digital.
 
 🧭 Direcionamento Estratégico
+
 🎯 Objetivo
 Criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas naturais com o usuário, sem formulários manuais ou planilhas complexas.
+
 🧩 Problema
 A maioria dos apps exige entrada manual e pouca personalização, o que desmotiva os usuários.
 Queremos resolver isso com uma experiência conversacional e recomendações automáticas de economia.
+
 👥 Público-Alvo
 Pessoas que desejam organizar suas finanças de forma prática sem complicação e especialmente iniciantes.
 
