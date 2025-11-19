@@ -43,10 +43,8 @@ Usar tom educativo e linguagem acessível, em português.
 
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/129747a1-9ed4-4b57-a5ef-a9cd88b78342" />
 
+**Um resumo do que App de Finanças Pessoais faz:**
 
-
-Prints ou pequenos vídeos das interações com a IA;
-Um resumo do que o seu App de Finanças Pessoais faz;
 Uma breve reflexão sobre o processo:
 O que funcionou bem?
 O que não funcionou como o esperado?
