@@ -33,7 +33,7 @@ Usar tom educativo e linguagem acessível, em português.
 
 > Preciso que verifique um lançamento no valor de 1.518. No saldo atual e nas receitas está aparecendo apenas 1,51. Pode me ajudar a corrigir isso?
 
->Vou investigar o bug do valor e adicionar upload de imagens com OCR para cupons fiscais.
+>Vou investigar o bug do valor.
 
 >Identifiquei o problema! A regex não está lidando corretamente com o formato brasileiro (1.518,00). Vou corrigir o parsing.
 Prints ou pequenos vídeos das interações com a IA;
