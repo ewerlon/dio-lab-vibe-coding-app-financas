@@ -4,7 +4,7 @@ Este projeto foi desenvolvido em vibe coding, uma abordagem leve, criativa e col
 Com Copilot, tive suporte inteligente em tempo real, otimizando cada linha de código. Já com Lovable, trouxe personalidade e empatia à interface, criando uma conexão mais humana entre tecnologia e usuário.
 O resultado? Um projeto que une eficiência técnica com sensibilidade criativa, refletindo o melhor da nova geração de desenvolvimento digital.
 
-Para a elaboração do PRD (Product Requirements Document), utilizamos o seguinte prompt como base de direcionamento estratégico e criativo:
+**Para a elaboração do PRD (Product Requirements Document), utilizamos o seguinte prompt como base de direcionamento estratégico e criativo:**
 ```txt
 # Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
