@@ -87,14 +87,12 @@ Uma breve reflexão sobre o processo:
 - Clareza na comunicação: A troca por linguagem natural facilitou o desenvolvimento das ideias e funcionalidades.
 - Agilidade nas respostas: A IA ajudou a organizar rapidamente conceitos, estruturar textos e gerar conteúdo em Markdown.
 - Estímulo à criatividade: As sugestões do agente financeiro “Lovable” trouxeram um toque humano e empático ao projeto.
+  
 ⚠️ O que não funcionou como o esperado
 - Limitações de contexto visual: A IA não interpreta imagens diretamente sem descrição, o que exige mais detalhamento por parte do usuário.
 - Dependência de instruções claras: Quando o pedido é vago, a IA precisa de mais contexto para entregar algo útil — isso pode interromper o fluxo criativo.
+  
 💬 O que aprendi sobre conversar com IAs
 - Quanto mais específico, melhor: A IA responde com mais precisão quando recebe instruções claras e completas.
 - É uma parceria, não uma ferramenta passiva: A conversa com a IA funciona como uma troca de ideias — ela propõe, ajusta e refina junto com você.
 - Ela aprende com você no momento: Mesmo sem memória ativa, a IA adapta suas respostas com base no que você compartilha durante a conversa.
-
-O que funcionou bem?
-O que não funcionou como o esperado?
-O que aprendeu sobre conversar com IAs?
