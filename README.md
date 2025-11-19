@@ -28,9 +28,6 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
 ```
-
-Seu prompt final (PRD);
-
 Prints ou pequenos vídeos das interações com a IA;
 Um resumo do que o seu App de Finanças Pessoais faz;
 Uma breve reflexão sobre o processo:
