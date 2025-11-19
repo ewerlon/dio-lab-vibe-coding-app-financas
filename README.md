@@ -4,6 +4,30 @@ Este projeto foi desenvolvido em vibe coding, uma abordagem leve, criativa e col
 Com Copilot, tive suporte inteligente em tempo real, otimizando cada linha de código. Já com Lovable, trouxe personalidade e empatia à interface, criando uma conexão mais humana entre tecnologia e usuário.
 O resultado? Um projeto que une eficiência técnica com sensibilidade criativa, refletindo o melhor da nova geração de desenvolvimento digital.
 
+Para a elaboração do PRD (Product Requirements Document), utilizamos o seguinte prompt como base de direcionamento estratégico e criativo:
+'''
+Rescreva: # Contexto
+Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
+A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+
+# Problema
+Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
+Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+
+# Público-Alvo
+Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+
+# Funcionalidades-Chave
+1. Registrar gastos via chat em linguagem natural.  
+2. Classificar automaticamente as transações.  
+3. Definir e acompanhar metas financeiras.  
+4. Receber dicas de economia do “Agente Financeiro”.  
+5. Visualizar relatórios simples e personalizados.
+
+# Entregável da IA
+Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
+Usar tom educativo e linguagem acessível, em português.
+'''
 
 Seu prompt final (PRD);
 
