@@ -2,7 +2,7 @@
 Um app de organização financeira pessoal com inteligência artificial e uma pitada de criatividade.
 
 ✨ Sobre o Projeto
-O FinanceAI nasceu em clima de vibe coding — uma abordagem leve, criativa e colaborativa que transforma código em expressão.
+O FinanceAI nasceu em clima de vibe coding, uma abordagem leve, criativa e colaborativa que transforma código em expressão.
 Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvimento e criar uma experiência fluida e empática:
 - 🤖 Copilot: suporte inteligente em tempo real, otimizando cada linha de código.
 - 💛 Lovable: trouxe personalidade à interface, criando uma conexão mais humana entre tecnologia e usuário.
@@ -15,7 +15,7 @@ Criar um aplicativo de Organização de Finanças Pessoais que funcione por meio
 A maioria dos apps exige entrada manual e pouca personalização, o que desmotiva os usuários.
 Queremos resolver isso com uma experiência conversacional e recomendações automáticas de economia.
 👥 Público-Alvo
-Pessoas que desejam organizar suas finanças de forma prática e sem complicação — especialmente iniciantes.
+Pessoas que desejam organizar suas finanças de forma prática sem complicação e especialmente iniciantes.
 
 🛠️ Funcionalidades
 1. Visão Geral em Tempo Real
