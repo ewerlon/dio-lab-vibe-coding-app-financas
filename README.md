@@ -38,6 +38,9 @@ Usar tom educativo e linguagem acessível, em português.
 >Identifiquei o problema! A regex não está lidando corretamente com o formato brasileiro (1.518,00). Vou corrigir o parsing.
 
 **Resultado final Lovable:** https://project-financeai.lovable.app/auth
+
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/206a2857-f483-44f9-99a0-48c88b2abfa6" />
+
 Prints ou pequenos vídeos das interações com a IA;
 Um resumo do que o seu App de Finanças Pessoais faz;
 Uma breve reflexão sobre o processo:
