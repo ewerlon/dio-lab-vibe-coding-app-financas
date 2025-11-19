@@ -45,6 +45,41 @@ Usar tom educativo e linguagem acessível, em português.
 
 **Um resumo do que App de Finanças Pessoais faz:**
 
+### 1. Visão Geral em Tempo Real
+- Exibe o saldo atual disponível após gastos fixos.
+- Mostra receitas e despesas de forma clara e atualizada.
+
+### 2. Registro de Gastos por Conversa
+- Usuário informa gastos em linguagem natural via chat.
+- O sistema interpreta e registra automaticamente.
+
+### 3. Classificação Inteligente de Transações
+- Categoriza despesas com base em palavras-chave e histórico.
+- Exemplo: “Uber” → Transporte.
+
+### 4. Gestão de Gastos Fixos
+- Permite adicionar despesas mensais recorrentes.
+- Ajuda a calcular o saldo real disponível.
+
+### 5. Definição e Acompanhamento de Metas
+- Usuário pode criar metas como “economizar R$300 este mês”.
+- O app acompanha o progresso e envia alertas.
+
+### 6. Agente Financeiro (Lovable)
+- Personagem simpático que envia dicas personalizadas.
+- Motiva o usuário com mensagens educativas e afetivas.
+
+### 7. Relatórios Simples e Personalizados
+- Gráficos de pizza e barras mostram os gastos por categoria.
+- Relatórios semanais e mensais com insights e sugestões.
+
+### 8. Dica do Dia
+- Sugestões rápidas para melhorar o controle financeiro.
+- Exemplo: “Registre seus recebimentos e gastos para manter seu controle atualizado.”
+
+### 9. Navegação Intuitiva
+- Menu com acesso rápido a: Início, Chat, Transações, Metas e Configurações.
+
 Uma breve reflexão sobre o processo:
 O que funcionou bem?
 O que não funcionou como o esperado?
