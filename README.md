@@ -29,6 +29,8 @@ Gerar um plano de MVP com as principais telas, recursos necessários e um esboç
 Usar tom educativo e linguagem acessível, em português.
 ```
 **Aqui estão interações com "Lovable"**
+> Preciso que verifique um lançamento no valor de 1.518. No saldo atual e nas receitas está aparecendo apenas 1,51. Pode me ajudar a corrigir isso?
+Aproveito para pedir outra coisa: eu gostaria de inserir gastos por meio de cupons e notas fiscais utilizando imagens.
 
 Prints ou pequenos vídeos das interações com a IA;
 Um resumo do que o seu App de Finanças Pessoais faz;
