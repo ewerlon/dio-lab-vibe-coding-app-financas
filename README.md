@@ -5,7 +5,7 @@ Com Copilot, tive suporte inteligente em tempo real, otimizando cada linha de c�
 O resultado? Um projeto que une eficiência técnica com sensibilidade criativa, refletindo o melhor da nova geração de desenvolvimento digital.
 
 Para a elaboração do PRD (Product Requirements Document), utilizamos o seguinte prompt como base de direcionamento estratégico e criativo:
-'''
+---
 Rescreva: # Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
 A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
@@ -27,7 +27,7 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
-'''
+---
 
 Seu prompt final (PRD);
 
