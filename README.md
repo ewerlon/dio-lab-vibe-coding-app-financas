@@ -39,7 +39,8 @@ Usar tom educativo e linguagem acessível, em português.
 
 **Resultado final Lovable:** https://project-financeai.lovable.app/auth
 
-<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/206a2857-f483-44f9-99a0-48c88b2abfa6" />
+<img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/6279570d-d12f-4065-a651-e8fd8f5f1382" />
+
 
 Prints ou pequenos vídeos das interações com a IA;
 Um resumo do que o seu App de Finanças Pessoais faz;
