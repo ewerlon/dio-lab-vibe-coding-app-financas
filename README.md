@@ -76,8 +76,8 @@ Pessoas que desejam dar os primeiros passos na organização financeira de forma
 - A IA é uma parceira criativa, não uma ferramenta passiva
 - Ela se adapta com base no que você compartilha
 
-🔗 Resultado Final
-Acesse o app: [project-financeai.lovable.app](https://project-financeai.lovable.app/)
+🔗 **Resultado Final**
+Acesse o app: https://preview--project-finchat.lovable.app/auth
 
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/18b2862f-2845-445f-badd-0f63c646fe6d" />
 
