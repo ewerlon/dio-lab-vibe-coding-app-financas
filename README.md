@@ -62,16 +62,16 @@ Pessoas que desejam dar os primeiros passos na organização financeira de forma
 
 ### Aprendizados:
 
-✅ O que funcionou bem
+✅ **O que funcionou bem**
 - Clareza na comunicação com linguagem natural
 - Agilidade na organização de ideias com IA
 - Criatividade estimulada pelas sugestões do Lovable
   
-⚠️ O que não funcionou como o esperado
+⚠️ **O que não funcionou como o esperado**
 - Limitações na interpretação de imagens sem descrição
 - Necessidade de instruções claras para manter o fluxo criativo
 
-💬 Lições sobre conversar com IAs
+💬 **Lições sobre conversar com IAs**
 - Quanto mais específico, melhor
 - A IA é uma parceira criativa, não uma ferramenta passiva
 - Ela se adapta com base no que você compartilha
