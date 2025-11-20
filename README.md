@@ -1,4 +1,4 @@
-# 💸 FinanceAI App de Organização de Finanças Pessoais com Vibe Coding.
+# 💸 App de Organização de Finanças Pessoais com Vibe Coding.
 
 ✨ Sobre o Projeto
 O FinanceAI nasceu em clima de vibe coding, uma abordagem leve, criativa e colaborativa que transforma código em expressão.
