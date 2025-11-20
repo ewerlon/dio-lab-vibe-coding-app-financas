@@ -57,6 +57,9 @@ Pessoas que desejam dar os primeiros passos na organização financeira de forma
 - Métricas: taxa de uso diário, precisão da categorização, satisfação com recomendações
 - Iterações quinzenais com base no feedback
 ```
+### Interações com Lovable:
+>Crie um app de finanças pessoais com base no seguinte Product Requirements Document - PRD:
+
 🧭 Direcionamento Estratégico
 
 🎯 Objetivo
