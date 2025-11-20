@@ -1,4 +1,4 @@
-💸 FinanceAI
+#💸 FinanceAI
 Um app de organização financeira pessoal com inteligência artificial e uma pitada de criatividade.
 
 ✨ Sobre o Projeto
