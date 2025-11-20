@@ -6,7 +6,7 @@ Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvim
 - 🤖 **Copilot:** suporte inteligente em tempo real, otimizando cada linha de código.
 - 💛 **Lovable:** trouxe personalidade à interface, criando uma conexão mais humana entre tecnologia e usuário.
 O resultado? Um app que une eficiência técnica com sensibilidade criativa, o melhor da nova geração de desenvolvimento digital.
-## Product Requirements Document - PRD:
+### Product Requirements Document - PRD:
 ```makdow
 # PRD - Aplicativo de Finanças Pessoais Conversacional
 
