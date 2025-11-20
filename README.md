@@ -3,9 +3,9 @@
 ✨ Sobre o Projeto
 O FinanceAI nasceu em clima de vibe coding, uma abordagem leve, criativa e colaborativa que transforma código em expressão.
 Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvimento e criar uma experiência fluida e empática:
-- 🤖 Copilot: suporte inteligente em tempo real, otimizando cada linha de código.
-- 💛 Lovable: trouxe personalidade à interface, criando uma conexão mais humana entre tecnologia e usuário.
-O resultado? Um app que une eficiência técnica com sensibilidade criativa — o melhor da nova geração de desenvolvimento digital.
+- 🤖 **Copilot:** suporte inteligente em tempo real, otimizando cada linha de código.
+- 💛 **Lovable:** trouxe personalidade à interface, criando uma conexão mais humana entre tecnologia e usuário.
+O resultado? Um app que une eficiência técnica com sensibilidade criativa, o melhor da nova geração de desenvolvimento digital.
 
 🧭 Direcionamento Estratégico
 
