@@ -78,3 +78,15 @@ Pessoas que desejam dar os primeiros passos na organização financeira de forma
 
 🔗 Resultado Final
 Acesse o app: [project-financeai.lovable.app](https://project-financeai.lovable.app/)
+
+<img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/18b2862f-2845-445f-badd-0f63c646fe6d" />
+
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/9bbd7f57-5d2a-4fce-bd23-a4734019aeb7" />
+
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/3cc499ff-c636-4721-b697-a68d493b2f59" />
+
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/3e29dab3-0605-405d-971a-62deab3ca08c" />
+
+
+
+
