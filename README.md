@@ -77,7 +77,7 @@ Pessoas que desejam dar os primeiros passos na organização financeira de forma
 - Ela se adapta com base no que você compartilha
 
 🔗 **Resultado Final**
-Acesse o app: https://preview--project-finchat.lovable.app/auth
+Acesse o app: https://project-finchat.lovable.app/
 
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/18b2862f-2845-445f-badd-0f63c646fe6d" />
 
